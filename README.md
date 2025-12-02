@@ -31,7 +31,7 @@ Analizar y visualizar la **distribución, caracterización y cobertura** de beca
 ---
 ## 🛠️ Tecnologías Utilizadas  
 - **Python 🐍** → Procesamiento y análisis de datos (pandas, numpy, PyPDF, requests).  
-- **MySQL 🗄️** → Almacenamiento estructurado de la información de becas y becarios.  
+- **Excel 🗄️** → Almacenamiento estructurado de la información de becas y becarios.  
 - **Power BI 📊** → Dashboards interactivos para visualización de métricas y análisis temporal.  
 ---
 ## 📡 Metodología  
