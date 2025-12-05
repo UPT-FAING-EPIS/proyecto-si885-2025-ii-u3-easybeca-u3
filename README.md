@@ -119,7 +119,11 @@ Analizar y visualizar la **distribución, caracterización y cobertura** de beca
 - Implementar **alertas automáticas** de nuevas convocatorias según perfil
 ---
 📎 **Video Explicativo del Proyecto (YouTube)**  
-🔗 https://www.youtube.com/watch?v=Mqj09hCcJ8s
+🔗 [Ver Video Explicativo](https://www.youtube.com/watch?v=Mqj09hCcJ8s)
 
 📊 **Dashboard en Power BI**  
 🔗 [Ver Dashboard Interactivo](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!jP5Slrdq-060CjwVVNLKYo-ZmT31FnVOpI28pZdpOk3GkrdIXeEJSLQoy_8NEVqt&itemId=01WBF24WHAZF7TQGB63FC3U56VMNJYRHCA)
+
+📎 **Video Participación en el Concurso de Proyectos EPIS (YouTube)**  
+🔗 [Ver Video Participación](https://youtu.be/SQlDPs89Dxw)
+
